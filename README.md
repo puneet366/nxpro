@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Addressbook Tutorial
 ====================
 
@@ -66,3 +67,6 @@ To use the built in server adapters of Eclipse, instead of doing "Run As -> Mave
 - *Do not use the suggested J2EE Preview server* as it is outdated, deprecated and does not support Servlet 3, which is required for this application
 
 *** End of documentation
+=======
+# nxpro
+>>>>>>> 5ff2e7626fd14616fc788669d9abb01eb629c6cf
